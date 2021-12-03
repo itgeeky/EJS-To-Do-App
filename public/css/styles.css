@@ -4,7 +4,9 @@ html {
   min-height: 1000px;
   font-family: 'Montserrat', sans-serif;
 }
-
+ body{
+   background-color: transparent !important;
+ }
 h1 {
   color: #fff;
   padding: 10px;
